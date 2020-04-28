@@ -6,4 +6,4 @@ install:
     - pip3 install pycodestyle
     
 script:
-    - pycodestyle battleships.py
+    - pycodestyle battleships_orig.py
